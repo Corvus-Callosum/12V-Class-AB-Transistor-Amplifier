@@ -1,7 +1,7 @@
 # ±12V Discrete-Transistor-Op-Amp
 An Op-Amp built using discrete transistors (2N2222A, 2N3904, and 2N3906)
 
-# Specifications
+## Specifications
 VCC = +12V,
 VEE = -12V
 
@@ -12,12 +12,12 @@ Vo ≥ 5Vpp
 flo = 0Hz,
 fhi ≥ 5MHz
 
-# Simulation Files
+## Simulation Files
 Located in ./LTSPICE
 
-# PCB Layout and Schematic Files
+## PCB Layout and Schematic Files
 Located in ./KiCAD
 
-# Gerber Files
+## Gerber Files
 Located in ./MFG
 
