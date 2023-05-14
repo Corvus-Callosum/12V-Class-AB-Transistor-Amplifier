@@ -16,6 +16,8 @@ Located in ./LTSPICE
 ## PCB Layout and Schematic Files
 Located in ./KiCAD
 
+![alt text](https://github.com/LumbermanOne/12V_Plus_Minus_Discrete-Transistor-Op-Amp/blob/main/IMAGES/Screenshot%202023-05-14%20183322.png)
+
 ## Gerber Files
 Located in ./MFG
 
