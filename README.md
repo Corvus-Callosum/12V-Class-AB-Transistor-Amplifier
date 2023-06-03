@@ -21,6 +21,6 @@ Located in ./MFG
 ## Manufactured PCB
 
 * Optional 0.1uF Ceramic Capacitors (Not Included)
-* Jumper (Not Included)
+* Jumper/Cable (Not Included)
 
 ![alt text](https://github.com/LumbermanOne/12V_Plus_Minus_Discrete-Transistor-Op-Amp/blob/main/IMAGES/PXL_20230603_052428029.NIGHT.jpg)
