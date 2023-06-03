@@ -21,3 +21,6 @@ Located in ./KiCAD
 ## Gerber Files
 Located in ./MFG
 
+## Manufactured PCB
+
+![alt text](https://github.com/LumbermanOne/12V_Plus_Minus_Discrete-Transistor-Op-Amp/blob/main/IMAGES/PXL_20230603_052428029.NIGHT.jpg)
